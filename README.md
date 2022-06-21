@@ -3,8 +3,9 @@ Mijn netwerktoolset geschreven in golang
 toolset voor mijn eigen netwerk
 ip adressem zijn van mijn netwerk
 
+gemaakt voor linux
 
-imports (
+afhankelijkheden (
     "fmt"
     "os/exec"
     "net"
